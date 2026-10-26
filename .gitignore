@@ -1,0 +1,10 @@
+APPROVE
+profile/profile.md
+receipts/*
+!receipts/.gitkeep
+sent/*
+!sent/.gitkeep
+dashboard/*
+__pycache__/
+.DS_Store
+!dashboard/.gitkeep
